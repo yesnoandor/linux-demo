@@ -1,0 +1,1 @@
+int placenew_test();

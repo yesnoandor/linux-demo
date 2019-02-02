@@ -89,6 +89,27 @@
 #include	"demo_9/usestok2.h"
 #include	"demo_9/stacker.h"
 
+#include	"demo_10/usetime1.h"
+#include	"demo_10/usetime3.h"
+#include	"demo_10/randwalk.h"
+#include	"demo_10/stone.h"
+
+#include	"demo_11/sayings.h"
+#include	"demo_11/sayings2.h"
+#include	"demo_11/placenew.h"
+#include	"demo_11/bank.h"
+
+#include	"demo_12/usett0.h"
+#include	"demo_12/usebrass.h"
+#include	"demo_12/useabc.h"
+#include	"demo_12/usedma.h"
+
+#include	"demo_13/use_stuc.h"
+#include	"demo_13/use_stui.h"
+#include	"demo_13/use_stacktp.h"
+#include	"demo_13/use_stackptrtp.h"
+#include	"demo_13/use_arraytp.h"
+
 int main()
 {
 	//myfirst();
@@ -192,11 +213,37 @@ int main()
 	//stack_test();
 
 	// 使用类
-
+	//use_time1_test();
+	//use_time3_test();
+	//randwalk_test();
+	//stone_test();
+	
 	// 类和动态内存分配
+	//sayings_test();
+	//sayings2_test();
+	//placenew_test();
+	//bank_test();
 
 	// 类继承
+	//usett0_test();
+	//usebrass_test();
+	//useabc_test();
+	//usedma_test();
+	
+	// C++   中的代码重用
+	//use_stuc_test();
+	//use_stui_test();
+	//use_stacktp_test();
+	//use_stackptrtp_test();
+	use_arraytp_test();
+	
+	// 友元，异常及其他
 
+	// string类和标准模板库
+
+	// 输入，输出和文件
+
+	// 
 
 }
 

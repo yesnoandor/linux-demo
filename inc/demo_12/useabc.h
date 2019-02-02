@@ -1,0 +1,2 @@
+int useabc_test();
+

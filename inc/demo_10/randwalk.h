@@ -1,0 +1,2 @@
+int randwalk_test();
+

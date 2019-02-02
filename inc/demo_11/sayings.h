@@ -1,0 +1,2 @@
+int sayings_test();
+
